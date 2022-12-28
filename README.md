@@ -15,6 +15,7 @@ USAGE:
 - Go to the master branch
 - Download the Zip file
 - Go to your command line and navigate to the extracted folder
+- Run npm init to download the node_modules
 - Run npm i 
 - Make sure you have Node installed and running
 - Run the app using nodemon app.js or node app.js
